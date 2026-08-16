@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://andresfelipeguarinrivera2-lab.github.io/TecnoPlay/sitemap.xml
