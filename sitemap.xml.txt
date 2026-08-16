@@ -3,11 +3,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://TU-DOMINIO.com/</loc>
+    <loc>https://andresfelipeguarinrivera2-lab.github.io/TecnoPlay/</loc>
   </url>
 
   <url>
-    <loc>https://TU-DOMINIO.com/articulos/free-fire-fps.html</loc>
+    <loc>https://andresfelipeguarinrivera2-lab.github.io/TecnoPlay/articulos/free-fire-fps.html</loc>
   </url>
 
 </urlset>
